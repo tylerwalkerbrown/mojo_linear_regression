@@ -1,1 +1,6 @@
-# mojo_linear_regression
+# mojo_linear_regression![output_20_0](https://user-images.githubusercontent.com/94020684/205430461-14f0a898-a031-4042-b83f-89ed949e9211.png)
+![output_21_0](https://user-images.githubusercontent.com/94020684/205430463-59efde5a-aeea-4244-8dd1-44343ba381ac.png)
+![output_22_0](https://user-images.githubusercontent.com/94020684/205430465-f6177160-e510-441d-a28d-0927be64e7b0.png)
+![output_23_0](https://user-images.githubusercontent.com/94020684/205430466-ba93d55a-098a-49f4-814d-fca569b43e24.png)
+![output_28_0](https://user-images.githubusercontent.com/94020684/205430467-04793d89-24db-48a5-860b-1805da659d87.png)
+![output_30_0](https://user-images.githubusercontent.com/94020684/205430468-510beb73-fe33-41e9-aabe-9fcdfac13b80.png)
